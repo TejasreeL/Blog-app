@@ -1,0 +1,5 @@
+.author-profile ul .active {
+  color: var(--light-grey) !important;
+  background-color: #6cb4e1;
+  border-radius: 5px;
+}
